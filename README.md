@@ -26,3 +26,6 @@ After that, to run the program, you must start running it from the main.py folde
 
 # links
 https://github.com/EfrainMartinez1672/register-student.git
+
+# ruta
+/home/cohorte5/Vídeos/Grabaciones de la pantalla/
