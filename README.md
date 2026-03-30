@@ -23,3 +23,6 @@ For the program to work correctly, you must install the two .py folders: main.py
 # Executing program
 
 After that, to run the program, you must start running it from the main.py folder.
+
+# links
+ 
